@@ -1,3 +1,4 @@
 {
-  "pcfReactControls": "on"
+  "pcfReactControls": "on",
+  "pcfAllowCustomWebpack": "on"
 }
