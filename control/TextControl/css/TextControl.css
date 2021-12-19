@@ -1,0 +1,14 @@
+input.TextControl {
+  box-sizing: border-box;
+  width: 100%;
+  padding: calc(0.5rem + 1px);
+  border-radius: 0;
+  border: none;
+}
+
+input.TextControl:hover,
+input.TextControl:focus,
+input.TextControl:active {
+  padding: 0.5rem;
+  border: 1px solid black;
+}
